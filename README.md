@@ -28,6 +28,7 @@
 Ejecutar el Proyecto:
 Ejecuta el proyecto desde Visual Studio para confirmar que se conecta correctamente a la base de datos y funciona según lo esperado.
 
-
+VIDEO DE FUNCIONAMIENTO
+https://youtu.be/wpww_5yF9ug
 
 
