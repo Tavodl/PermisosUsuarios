@@ -24,7 +24,7 @@
     connectionString As String = "Server=localhost;Database=pruebatecnica;User ID=root;Password=;charset=latin1;"
     Cambiar User ID y Password según las credenciales de tu servidor MySQL.
 
-##Ejecución
+## Ejecución
 Ejecutar el Proyecto:
 Ejecuta el proyecto desde Visual Studio para confirmar que se conecta correctamente a la base de datos y funciona según lo esperado.
 
