@@ -1,6 +1,6 @@
 # PermisosUsuarios
 
-# Levantar aplicacion de escritorio en ambiente de desarrollo
+# Levantar aplicacion de escritorio en ambiente de desarrollo (.NET 8.0)
 
 ## Requisitos previos
 1. Clonar el proyecto: Asegúrate de tener los permisos necesarios para clonar el repositorio en tu equipo.
